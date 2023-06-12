@@ -1,3 +1,3 @@
-A commandline alternative to bit.io.
-More coming soon.
+A command line/ selfhosting alternative to bit.io.
+More coming soon...
 
